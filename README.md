@@ -1,5 +1,3 @@
-# Weight-Tracker-App
-
 ## Requirements
 - Install the [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US) app on you phone
 - Install [NodeJS](https://nodejs.org/en/download) on your computer
